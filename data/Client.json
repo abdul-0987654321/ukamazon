@@ -1,0 +1,609 @@
+{
+  "cookies": [
+    {
+      "name": "adobe-session-id",
+      "value": "7c73d7b7-d14e-4815-9a91-995882c60905",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": 1825507327.64762,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hvh-advertising-cookies-enable",
+      "value": "false",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": 1825507327.648033,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hvh-analytics-cookies-enable",
+      "value": "false",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": 1825507327.648272,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hvh_cs_wlbsid",
+      "value": "\"\"",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hvh-locale",
+      "value": "en-GB",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hvh-default-locale",
+      "value": "en-GB",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hvh-country-code",
+      "value": "UK",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hvh-stage",
+      "value": "prod",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hvh-locale",
+      "value": "en-GB",
+      "domain": "auth.hiring.amazon.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cwr_u",
+      "value": "36913acd-fe44-4469-8450-af6a20d81a3d",
+      "domain": ".auth.hiring.amazon.com",
+      "path": "/",
+      "expires": 1793536575,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "at_check",
+      "value": "true",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "demdex",
+      "value": "69025124997118011162975744042931675978",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1806493367.941204,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCVS_CCBC879D5572070E7F000101%40AdobeOrg",
+      "value": "1",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mbox",
+      "value": "session#4441909710c848f1b9ce610a9f79b4e8#1790942843|PC#4441909710c848f1b9ce610a9f79b4e8.37_0#1854185783",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": 1825500982.466577,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "everest_g_v2",
+      "value": "g_surferid~ar_XOAAAABazBALR",
+      "domain": ".everesttech.net",
+      "path": "/",
+      "expires": 1822476983.409582,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dpm",
+      "value": "69025124997118011162975744042931675978",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1806493367.941388,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_CCBC879D5572070E7F000101%40AdobeOrg",
+      "value": "179643557%7CMCIDTS%7C20729%7CMCMID%7C69007999477648208482973995340847447846%7CMCAAMLH-1791545782%7C3%7CMCAAMB-1791545782%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1790948187s%7CNONE%7CMCSYNCSOP%7C411-20736%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": 1825500987.51071,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "aws-waf-token",
+      "value": "9a59ec14-cfeb-4256-85d7-bc6e5ff3883d:EQoAndVqKsusTgAA:Ruy/rXTJgNSuDUdFiEAIDhcGPWGy9TGUJ+2RJEMy6cuotDZYUcrX+oFBVRPKpSNXn6hefXhHKEsSH4Z1gsy1kaqO7qZI1O+OO2u54EbbuOPyN+qpB7TobegivshZGyUtiNzMZNoDebwf/8otYBml7+8UyvTpZ+QoEZOKXU8suE/0Dc4qYkUnVbgTv+2i+4srn3f7cF8fh0gAmEEfExkd0H1wMo3M1qcz6yHyvMX74L4BuZEXTzNHFmZBtW0DDeu0d242KyYB+MvXcIG4eLCljyrnBTUb3DYqtTEvcgXsMTrwYGcmSoR0YMi2wGXzBKvgMU3REuIEKrdAbGH+/GNdi8ChCTdXxMrrPC+WwSxoDhR8Oj+89vvugCITaPAKhQ==",
+      "domain": ".auth.hiring.amazon.com",
+      "path": "/",
+      "expires": 1791286596,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_cc",
+      "value": "true",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_ips",
+      "value": "850",
+      "domain": ".hiring.amazon.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_tp",
+      "value": "850",
+      "domain": ".hiring.amazon.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_ppv",
+      "value": "https%253A%252F%252Fauth.hiring.amazon.com%252F%2523%252Flogin%2C100%2C100%2C850%2C1%2C1",
+      "domain": ".hiring.amazon.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HVH_AUTH_SESSID",
+      "value": "UK_Session_64d8866e-25b2-474c-8025-7d5637e74966",
+      "domain": "auth.hiring.amazon.com",
+      "path": "/",
+      "expires": 1790948259.942225,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_sq",
+      "value": "%5B%5BB%5D%5D",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HVH_ACCESS_TOKEN",
+      "value": "AQICAHgRVX6yB5HaOXG%2F6jWEErD4AnJUVlc3se%2B5PoiAFFV3IgHYVAIypHU6gbXxSe7uoHJ6AAAEkzCCBI8GCSqGSIb3DQEHBqCCBIAwggR8AgEAMIIEdQYJKoZIhvcNAQcBMB4GCWCGSAFlAwQBLjARBAz7EYdxefnXxREuMuACARCAggRGSujsxY96b81ssZSMMN6jPgHZfLEwXQfOXnGN8ghasWIMHcVo04C9RydbX6gkJup7oDyfihJJjNEj1e4pEkQduEov7nFWElNM1CvOz80RIBEcEc13QBy0wf4u5MvBS0WxpjiHZOKr3n3W76YmyQ3ZFjy1TiFdNVs0JDV3yxBguTFjP0DdBzVu%2BPVI6GGhCf0Foo9mML%2FgQcH9actIcOb0edj9l0yGQH3k2BPi0AP6PVTvAxG2mPKm%2BPnOSOkigtYjuGhI7YJ6bX28r8FgShxWjVZQ5kxNa2ciRw7ev7fkonVZTQ91WPmCAmbwZnSIdifVpoPVe3o%2FDEbvnVX%2FA%2FeCnSsbBLxt%2FUt9Z8kd8Lece3rhFJsGrC50pheXGn1Y5j0NX%2FePwbmGJhHPmrT5SQH38IrJqK%2B%2FA6GRYLcZca1EuhQYnemB9p%2FQp9LypkyuBK%2FOFJ8tsX4eG4m7ZoiytFmEiuvWXbHZAFtcd3VBLFUoRSDe4JlNWlhAEsWww8yRbWaenUNf3sAikqWLyjy024BF2Kp7zJpdxU2j9ZEBM9g1sEVBEcp%2B3zg5DA3CwbS%2Bl3uTXxVB19RwL2Lpi%2FAJLH5D9mBGfbnqGaPewgC32yvV51NjLphWmtj2sVS%2FsUwgeLOh8pl3lLaLWSHYTGikUOeKBUgkj60c%2B4%2F5L1mxUONpZnkX8WgSjdW3cERk5gk%2Fza3rRe0XaXU5gFxV2BF0Ik1dOzOhWvt5I%2BfSdBWfxIW0X%2Fk6uJeO7CWa3fo0D40ip0s6fZVSgg1sASA0gJIrAol8f1Sx8hlWtz80mdwlzTONQVj%2BM5uJcxUX%2Fu7hhSrlmQJ2NNLy0GKvdogqEpASyt%2Fzld6HWiuJzoi3zI5BWaISV8YLnF68%2Bd%2BvHF2h%2FMkquNpQ8l4wBUgNTVDm%2FrpnD0NjhL9uYiWqfZ%2Fclt9pZddQr0JhYpsWJMJ8sTzUHNOG93LfjQjNZdAeEsjtKvp080FLIbaEQtPxwn%2F2h8ZUMx%2FRMXjmtjDuagwa46i9AgVeF0A5SqiluFgHJ3Nabjw3fm8EvWvxKDuS5M85V7fj1RL3P2datjuYH3WmzHDr5MNv4ncZkx8YD62e7ddL9cpo2BKg6u%2F7bWfYjVqulP8D8Z%2BocjfqgAn0hgiQi1COwVwxREvbCFfjomoOjhzvFWJi22NVTYzowTUT6zKVT2N6uG4iq6vcIDChF3TCbBVLNubKtONRClU1FNtWhFSLnHrWKjwmZcpkDWglJIdq8gLT%2Bz9APMuWCK15Z2bhBg5kKOBK1VW3S0xXULjQAplF2LKVGJ52sTGBi750ahyghCaVH%2BPXayN6cVueXvuToL4mc1xfhKQfqIVvObv%2FQsNQ%2BR%2FNUIe3Z9Hody7OcZcZgZe04emjEPhMRX3bn%2FlgXUfCYz0Xa4VkrJ%2BXxI3tOSUqF9TdnAUoHosUL5%2FDYYM6RTh5x9Yzmj%2FAfeB9EW4%3D",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "cookieConsent",
+      "value": "false",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": 1825507349,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "at_check",
+      "value": "true",
+      "domain": ".jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMCVS_CCBC879D5572070E7F000101%40AdobeOrg",
+      "value": "1",
+      "domain": ".jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ev_sync_dd",
+      "value": "20261002",
+      "domain": ".everesttech.net",
+      "path": "/",
+      "expires": 1793619767.828793,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_CCBC879D5572070E7F000101%40AdobeOrg",
+      "value": "179643557%7CMCIDTS%7C20729%7CMCMID%7C69007999477648208482973995340847447846%7CMCAAMLH-1791546166%7C3%7CMCAAMB-1791546166%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1790948568s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+      "domain": ".jobsatamazon.co.uk",
+      "path": "/",
+      "expires": 1825501368.133079,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_ips",
+      "value": "850",
+      "domain": ".jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_cc",
+      "value": "true",
+      "domain": ".jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mbox",
+      "value": "session#42f86108db414f08b94869d818bd8a09#1790945526|PC#42f86108db414f08b94869d818bd8a09.37_0#1854188466",
+      "domain": ".jobsatamazon.co.uk",
+      "path": "/",
+      "expires": 1825503665.635026,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "QSI_HistorySession",
+      "value": "https%3A%2F%2Fwww.jobsatamazon.co.uk%2Fapp%23%2FjobSearch~1790941068986%7Chttps%3A%2F%2Fwww.jobsatamazon.co.uk%2Fapp%3Flocale%3Den-GB%23%2FjobDetail%3FjobId%3DJOB-UK-0000000547%26locale%3Den-GB%26scheduleId%3DSCH-UK-0000038957~1790941361989%7Chttps%3A%2F%2Fwww.jobsatamazon.co.uk%2Fapp%3Flocale%3Den-GB%23%2FjobDetail%3FjobId%3DJOB-UK-0000000349%26locale%3Den-GB%26scheduleId%3DSCH-UK-0000039506~1790941897996%7Chttps%3A%2F%2Fwww.jobsatamazon.co.uk%2Fapplication%2Fuk%2F%3FCS%3Dtrue%26jobId%3DJOB-UK-0000000349%26locale%3Den-GB%26ssoEnabled%3D1%23%2Fconsent%3FCS%3Dtrue%26jobId%3DJOB-UK-0000000349%26locale%3Den-GB%26ssoEnabled%3D1~1790942209819%7Chttps%3A%2F%2Fwww.jobsatamazon.co.uk%2Fapp%3Flocale%3Den-GB%23%2FjobDetail%3FjobId%3DJOB-UK-0000000159%26locale%3Den-GB%26scheduleId%3DSCH-UK-0000039620~1790942668957%7Chttps%3A%2F%2Fwww.jobsatamazon.co.uk%2Fapp%3Flocale%3Den-GB%23%2FjobDetail%3FjobId%3DJOB-UK-0000000548%26locale%3Den-GB%26scheduleId%3DSCH-UK-0000039534~1790943168564%7Chttps%3A%2F%2Fwww.jobsatamazon.co.uk%2Fapp%3Flocale%3Den-GB%23%2FjobDetail%3FjobId%3DJOB-UK-0000000126%26locale%3Den-GB%26scheduleId%3DSCH-UK-0000039260~1790943654450%7Chttps%3A%2F%2Fwww.jobsatamazon.co.uk%2Fapplication%2Fuk%2F%3FCS%3Dtrue%26jobId%3DJOB-UK-0000000126%26locale%3Den-GB%26ssoEnabled%3D1%23%2Fpre-consent%3FCS%3Dtrue%26jobId%3DJOB-UK-0000000126%26locale%3Den-GB%26ssoEnabled%3D1~1790943674609",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_tp",
+      "value": "1053",
+      "domain": ".jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_ppv",
+      "value": "https%253A%252F%252Fwww.jobsatamazon.co.uk%252Fapplication%252Fuk%252F%2523%252Fassessment%2C81%2C81%2C850%2C1%2C1",
+      "domain": ".jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_sq",
+      "value": "%5B%5BB%5D%5D",
+      "domain": ".jobsatamazon.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth",
+      "value": "fm7uSpdBFNbELPEGWHTHE40f6KYttTCHIjnJdN1a_BA",
+      "domain": "assessments.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "identity-provider",
+      "value": "Kondo",
+      "domain": "assessments.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "kndctr_7CBE1251606DD1DA0A495FD4_AdobeOrg_consent",
+      "value": "general=in",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1806495735,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "kndctr_7CBE1251606DD1DA0A495FD4_AdobeOrg_identity",
+      "value": "CiYxMjYwMTQ1OTM0MTUyNTE4Njk3MzQxMzkyMTk2Nzc3MTA4MjM1NlITCMHewuSPNBABGAEqBElSTDEwAPABwd7C5I80",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1825071735,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i18next_Kondo_bebb5e5d-313d-44d4-a6d7-0d1309003116",
+      "value": "en-US",
+      "domain": "assessments.amazon.jobs",
+      "path": "/",
+      "expires": 1825161776,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "hvhcid",
+      "value": "5b3eded0-be64-11f1-8a10-83e2049f247d",
+      "domain": "www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": 1793539365.898799,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "aws-waf-token",
+      "value": "d136ef34-6616-4986-a901-2fb173ca483c:BQoAgrmiKiauJgAA:/AyHsKsErKV7ukMkS2lBypeDWFEoY26u02Oy7myDj20BDJVXJ7f8BG1MFAiZt+G2THqr8EAGSx3umbIYMmn0YV1EgpXO3z0G8SKhhXjK04j4qi3IjXLNogNfjEXJUw+qhmGF+zuGSkx1FbF9Qx+Mfm2f/CwxiYK1slWzwUSGhEKKEqgTDvcMC81JSetfIgCVu8tDQ1W+sC9tRIZfWq5m371PFTQ97L/1mCwb6rV5aDGtZQVod5X8TksgXOuL0JK8HNAPQ1HMy2YDYGhu4r6kD29xXo0NS+a9/elDiFPiRuJ0IDE1UUzRNVMEoqVM6Ew9u/GzJEZg2ZM/l+8e1n95bIjvLT25i3/4Gqy2",
+      "domain": ".www.jobsatamazon.co.uk",
+      "path": "/",
+      "expires": 1791293000,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.jobsatamazon.co.uk",
+      "localStorage": [
+        {
+          "name": "tgt:tlm:lower",
+          "value": "9"
+        },
+        {
+          "name": "bbCandidateId",
+          "value": "74e91540-7810-4aff-8166-fa31d8908dca"
+        },
+        {
+          "name": "persist:mfe-preference-center",
+          "value": "{\"job-alert\":\"{\\\"jobAlertSignedUp\\\":false,\\\"userType\\\":\\\"Existing\\\"}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "tgt:tlm:upper",
+          "value": "10"
+        },
+        {
+          "name": "cwr_i_8fc7c2bf-1d02-45a3-9c1f-634910f78f12",
+          "value": "{\"IdentityId\":\"eu-west-1:21b00bfe-1e45-c763-6279-da51e1dcc577\"}"
+        },
+        {
+          "name": "awswaf_session_storage",
+          "value": "d136ef34-6616-4986-a901-2fb173ca483c:BQoAgrmiKieuJgAA:jLd9w/CDFJghltSFDDdmBmjC5LINwteCQXuYx4OoW5gV52Kg8h2BHj2W+UL80hSDyMnJ4Sepys04UUYiYOGM5T5dSGp+emtl2To1dUVm4pdDh9HVyjJEHTuUGMXkYtiHFSkEABABVP3LSR1zUeuvp3liHsxtcjiSVrUUZi9jkVRut8jXNVzDOPxKLtOTavj2aHOKchxJQu+cjFgw70ZHdXIA7k2pF67fClEu+05cJuAod02zwMXt6Be7SI+Hfno+xpHflYyqwkUloMlyyD0HU3rNjcqixtpbRGefB1MKyw20owqMVNqDhwwD/ThWhkJ7CobeQZ4ocIzNpA24Wfdhv2KQ1CnlLmWKzIQRytQCoR/qnShXkQqVpzwlavdz1DCmy2LYCo+euZ+ykrifdt65pJSMC6lrBZZOqtho5yMcHw=="
+        },
+        {
+          "name": "cwr_c",
+          "value": "{\"accessKeyId\":\"ASIAZC3IDY2YT2BO7LMG\",\"secretAccessKey\":\"HGEcUaXOrFFUVe4WJElAH2WaZhO9nZvMrkOqwvoa\",\"sessionToken\":\"IQoJb3JpZ2luX2VjEM7//////////wEaCWV1LXdlc3QtMSJHMEUCIQDoj1l9JKeFtZQst5YPd2dbNvZRtbq6etL4RDB7zulyeQIgPbbF3sZqOSOUNgHr6V14own6mSij93pHG/R0CFu1aiUqjwMIlv//////////ARACGgw2MjQ1OTkyMjE5MzciDHJWHXcYo8IDiBEyOirjAkg/KroD/52sZqruhXh68LGPU50NkVDrHLtMXIMhaFbhPpZtsswsSgFyTHyQIHDd5ScFmFABKSXVMNNuS/gSImjAVZ7XPrLIwjzFsXs6KFQKXfNbiBE+PXb2sEwG5+tluu8br6SydmvjFum0WjK4CiX8zEb3EOzZ4NVrg3FZ34IVH7PTGwZ4tFKsOyZoFUIcwB10RfpqX0xU1GPZejllasGVJ5lKIykLfS1BZ8lk735YiKsfxYI3vzK59+o2lwi39DDu+wGDC4Q9bN9BuRQBJkYbBkQD2hK8zO/mSkaWpfdVVvooOzB0ApoymYAAj0NEQCO3K35G3VUweGNOi6AB3uoKFqm94gMPhQ74YFAxxFwdimKbV3e70P4ojfDsunNMnSB7ftP4TGDG791uQhg+dnDDSuHrHVy2zsn4bDDHW9saPpJXKfmBmsFq2C98XvFQkIk2dUoodD4TCQf1mqE9s+R4rs0wut3+1QY6hQI+zQ8Bq7FT1T9bjJy04a4K/XenhcUVxsyDQZ8ppyzwxNWbN0Vo2Y573QPhtAiuinDzpom/mNob4gDCLvsSTeKnaNKbR1EuVDtSKVfOok8E+8x0xQOHllRl9+EPDL3IS3y/MnsL5VPIY9xgqb4p1eEDK5l/BootCO2V5jiQU2y63sPE4NnFznR/705VoLa4TCzIvw3JhbHQLVaI2hjbJ9FTTQNuB5VkC/30J+gqdt1jfWJP9kWIuNtGGCp9BY+YN6rX0LRzebhSPAatxG7o55hMJ+iuN6wd33+WF9RvF4DNSn4/OagTTTNqm3fC6oZ2SXJPx4XNiggnVsd4F4LPhCck7FkFsBY=\",\"expiration\":\"2026-10-02T14:16:42.000Z\"}"
+        },
+        {
+          "name": "i18nextLng",
+          "value": "en-GB"
+        },
+        {
+          "name": "persist:jobAlert",
+          "value": "{\"loading\":\"false\",\"jobAlertData\":\"{\\\"firstname\\\":\\\"\\\",\\\"lastname\\\":\\\"\\\",\\\"email\\\":\\\"\\\",\\\"phone\\\":\\\"\\\",\\\"zipcode\\\":\\\"\\\"}\",\"isSignedUpForJobAlert\":\"false\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "cwr_c_8fc7c2bf-1d02-45a3-9c1f-634910f78f12",
+          "value": "{\"accessKeyId\":\"ASIASDMAL7YPB64FSZRL\",\"secretAccessKey\":\"1jYp4pxjufG3CdAvbiGP6XzfidqzNnbsqNRIOV6Z\",\"sessionToken\":\"IQoJb3JpZ2luX2VjEM7//////////wEaCWV1LXdlc3QtMSJHMEUCIQCdCEhlKFmMbO9iqX0MyEP33qDB+4vHZIGtQDWGtUlMBAIgfFFxuC3/a2DiUZcBm0xyKThQ/IUBOKtiDJ7gKPRwrnIqjwMIlv//////////ARACGgwxNDQ2ODc0OTY3MzQiDO3N8Go7p4O9zvVV/CrjAjkOYpDGuzVQoUamqXWESrDLNyisGZC0IwoOR2FgwWZHbhOJXO7jVWm+LPHet+BSB8hhV++wF9L9JiXp6Ev/C/mlA/P7r13p7pgd+yYUeUgXjkC+waG4w+LzbWS1yZWMcWo36ZxRgz0MR1Fp5sz5PcJfDRl6IUypzkY+NautNCvlRlh7lieFt+9zzlFYjowT2CxqLxciQEr/eKtFW2Mw66tx2eYIMECsDrrvx51RT6psfY2XGlllynS7jZEqcoZ1o4dXVvgoCrMY+rt58eqg51SrEAe3WpBAShRhwunzSme+LBP4hIAHM3uGpyIdZUvi0XsJsNOzN47fn204aEhBAhE46O7KrfLzpVPY+N/yzr4xYqJ4734h8DscSJTm87p8JkDgbXPcW8PBQzWhxBJrnrx29KJZK8cG9AlG9fs8FJQBVtCKoM+nWQub8qNhrVxwSowEIRwpQBH9nLuAZMbj89fznd4wmd3+1QY6hQKFJThx96jx9MfzapMTvFPfvqfSSIFIwBcmT3OD7xb+5BmW6RG897DSYwM1X9c+ayPOKrFlsqZsfgTCfmNen0YDroFAKOQ5zmS/x6xODsb6V4sV/oL21t0pnmGx84msIKX3kPG6JurVNLx1tHqptY40qeOBUBJNEDoulkpyBPUg9i4lXS0oUvvQQSEP2K5MYSLoCCyLf5Ciy47DGKDbi51AL99sDjfNHFv9rYGam5KABtnSJmZT0+vDXnzTcl1VwzvODE6Gpw50Z+QkD5Y8Shyp00KgxrxHcN3jihl55TL7+jB1o8b+qef1OShLAW83KmHgAQGyKyCPl6UQG3SZxwfRqefboKU=\",\"expiration\":\"2026-10-02T14:16:09.000Z\"}"
+        },
+        {
+          "name": "tgt:tlm:10",
+          "value": "{\"execution\":178.4,\"parsing\":0.1,\"request\":{\"timeToFirstByte\":174.6,\"download\":0.9,\"responseSize\":302},\"telemetryServerToken\":\"wCo/+PJpxeEeLo4mV5p9X0pBUJg3ORphT1DKAK0MgUE=\",\"mode\":\"edge\",\"features\":{\"executePageLoad\":true,\"prefetchViewCount\":1,\"decisioningMethod\":\"server-side\"},\"requestId\":\"b4dea5eec5df43068961db388cc434de\",\"timestamp\":1790943665633}"
+        },
+        {
+          "name": "sessionToken",
+          "value": "eyJhbGciOiJLTVMiLCJ0eXAiOiJKV1QifQ.eyJpYXQiOjE3OTA5NDczOTgsImV4cCI6MTc5MDk1MDk5OH0.AQICAHgRVX6yB5HaOXG/6jWEErD4AnJUVlc3se+5PoiAFFV3IgE/d5cTrLQ/PhilHEPOiBgvAAAAtDCBsQYJKoZIhvcNAQcGoIGjMIGgAgEAMIGaBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDHjQuQ9oxnf4THLo3gIBEIBtkrvJ7bhPnCvoQT0J9H56FQiWlGDcQwBj5w0ueQrx48Fom1N0EuA5Zz9CDTwGh8LiA/8GEFmM03oXz8M08C/Q2jy6yBeOiM9kLlyDiIcWTY4ecq+dVg5J2YDvfi0zL11rCzcKELV77RdZ7ZHEcA=="
+        },
+        {
+          "name": "awswaf_token_refresh_timestamp",
+          "value": "1790947359635"
+        },
+        {
+          "name": "persist:alert",
+          "value": "{\"globalAlerts\":\"[{\\\"alertType\\\":\\\"warning\\\",\\\"errorTitle\\\":{\\\"key\\\":\\\"ErrorMessages-appsynclocation-cannot-get-location-title\\\",\\\"value\\\":\\\"We couldn't get your location.\\\"},\\\"errorMessage\\\":{\\\"key\\\":\\\"ErrorMessages-appsynclocation-permission-denied\\\",\\\"value\\\":\\\"For the best experience, please allow location tracking. Alternatively, you can search for jobs by using a postcode.\\\"}}]\",\"showGlobalAlerts\":\"false\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "page",
+          "value": "assessment"
+        },
+        {
+          "name": "useNewAppCardCD",
+          "value": "false"
+        },
+        {
+          "name": "persist:root",
+          "value": "{\"request\":\"{\\\"distance\\\":{\\\"value\\\":30,\\\"shownValue\\\":\\\"Within 30 miles\\\",\\\"unit\\\":\\\"mi\\\",\\\"defaultValue\\\":true,\\\"translationKey\\\":\\\"lbl-distance-filter-option-30-mile\\\"},\\\"query\\\":\\\"\\\",\\\"sort\\\":{\\\"value\\\":null,\\\"shownValue\\\":\\\"Distance from home\\\"},\\\"workHour\\\":{\\\"value\\\":null,\\\"shownValue\\\":\\\"Any\\\",\\\"shortValue\\\":\\\"Any\\\",\\\"translationKey\\\":\\\"FiltersPanel-lbl-hours-per-week-any\\\",\\\"description\\\":\\\"Any job types\\\",\\\"descriptionTranslationKey\\\":\\\"FiltersPanel-lbl-hours-per-week-description-any\\\"},\\\"lengthOfEmployment\\\":{\\\"value\\\":null,\\\"shownValue\\\":\\\"Any\\\",\\\"longValue\\\":\\\"Any duration\\\",\\\"selectedAll\\\":false},\\\"languageRequirement\\\":{\\\"value\\\":null,\\\"shownValue\\\":\\\"Any\\\"},\\\"roles\\\":{\\\"Warehouse Associate\\\":false,\\\"Fulfilment Centre Warehouse Associate\\\":false,\\\"XL Warehouse Associate\\\":false,\\\"Quick Ship Warehouse Associate\\\":false,\\\"Sortation Centre Warehouse Associate\\\":false,\\\"Delivery Station Warehouse Associate\\\":false,\\\"Warehouse Equipment Operator\\\":false,\\\"Customer Service Associate\\\":false,\\\"Remote Customer Service Associate\\\":false},\\\"scheduleShifts\\\":[{\\\"value\\\":\\\"EarlyMorning\\\",\\\"shownValue\\\":\\\"Early morning\\\",\\\"selected\\\":false},{\\\"value\\\":\\\"Daytime\\\",\\\"shownValue\\\":\\\"Daytime\\\",\\\"selected\\\":false},{\\\"value\\\":\\\"Evening\\\",\\\"shownValue\\\":\\\"Evening\\\",\\\"selected\\\":false},{\\\"value\\\":\\\"Night\\\",\\\"shownValue\\\":\\\"Night\\\",\\\"selected\\\":false},{\\\"value\\\":\\\"Weekday\\\",\\\"shownValue\\\":\\\"Weekday\\\",\\\"selected\\\":false},{\\\"value\\\":\\\"Weekend\\\",\\\"shownValue\\\":\\\"Weekend\\\",\\\"selected\\\":false}],\\\"featured\\\":false,\\\"bonus\\\":false,\\\"virtual\\\":false,\\\"startDate\\\":{\\\"value\\\":null,\\\"shownValue\\\":\\\"As soon as possible\\\"},\\\"hoursPerWeek\\\":[0,40],\\\"payRate\\\":[0,80]}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://assessments.amazon.jobs",
+      "localStorage": [
+        {
+          "name": "INBOX_Kondo_bebb5e5d-313d-44d4-a6d7-0d1309003116",
+          "value": ""
+        },
+        {
+          "name": "HELP_FLYOUT_Kondo_bebb5e5d-313d-44d4-a6d7-0d1309003116",
+          "value": "{\"assmtData\":[{\"type\":\"module\",\"forVersionId\":\"9489a049-5703-4e42-a357-4d56d02e9522\",\"items\":[{\"itemId\":\"25474073-5bb7-47f5-9428-9161725483e7\",\"contentType\":\"FlyoutInstructionalContent\",\"versionId\":\"29c83142-3886-4c6f-bc0c-8a053001f76f\",\"itemSetId\":null,\"noResponse\":false,\"contentMetadata\":{},\"textI18N\":{\"en-US\":\"<p><strong><em>My screen has frozen / I am stuck / I am experiencing a technical error</em></strong></p><ul><li><p>All of your progress on the assessment up to your current page has been saved.</p></li><li><p>First, try to refresh your page and continue.</p></li><li><p>If that does not fix your problem, try closing this window and re-entering the assessment using these steps:</p><ul><li><p>Close this window.</p></li><li><p>Log back in to your application.</p></li><li><p>Your assessment will continue from where you left off.</p></li></ul><p></p></li></ul>\"},\"mediaContentDefinitions\":[],\"sectionType\":\"faq\",\"sectionNameI18N\":{\"en-US\":\"Technical Support\"}},{\"itemId\":\"37f9f1f7-f445-4678-b0e5-8dad9ed8c9b0\",\"contentType\":\"FlyoutInstructionalContent\",\"versionId\":\"d640faa0-7f09-45d6-aa3c-f4ad35d60e5d\",\"itemSetId\":null,\"noResponse\":false,\"contentMetadata\":{},\"textI18N\":{\"en-US\":\"<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If at any time during the assessment you need to request an accommodation, please visit <a target=\\\"_blank\\\" rel=\\\"noopener noreferrer nofollow\\\" href=\\\"https://www.amazon.jobs/en/disability/global\\\">Amazon Accommodations</a>.</p>\"},\"mediaContentDefinitions\":[],\"sectionType\":\"overview\",\"sectionNameI18N\":{\"en-US\":\"Accommodation request\"}}]}],\"gdprExpiry\":\"2027-11-02T13:23:00.107Z\",\"timestamp\":1790943780107}"
+        },
+        {
+          "name": "audioUploadState",
+          "value": ""
+        },
+        {
+          "name": "Kondo_bebb5e5d-313d-44d4-a6d7-0d1309003116",
+          "value": "{\"assmtData\":\"applicationId=ee47c0dc-b787-461a-a753-029b766ec551&jobId=JOB-UK-0000000126\",\"gdprExpiry\":\"2027-11-02T13:22:09.803Z\",\"timestamp\":1790943729803}"
+        },
+        {
+          "name": "responses_bb47368a-6bb4-48aa-8f56-d22ea34fa012",
+          "value": "{\"assmtData\":{\"c31b962e-6b74-4113-8490-b1dc4bfcee6a\":{\"itemResponse\":{\"itemVersionId\":\"c31b962e-6b74-4113-8490-b1dc4bfcee6a\",\"values\":[]},\"meta\":{\"closedCaptionON\":false},\"isPartial\":false}},\"gdprExpiry\":\"2027-11-02T13:23:18.066Z\",\"timestamp\":1790943798066}"
+        },
+        {
+          "name": "com.adobe.alloy.7CBE1251606DD1DA0A495FD4_AdobeOrg.consentHashes.Adobe.2.0",
+          "value": "1258089945"
+        }
+      ]
+    },
+    {
+      "origin": "https://auth.hiring.amazon.com",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "en-GB"
+        },
+        {
+          "name": "cwr_i",
+          "value": "{\"IdentityId\":\"us-east-1:b8a612eb-8aa7-c4d5-03d6-5c907d96d40c\"}"
+        },
+        {
+          "name": "tgt:tlm:0",
+          "value": "{\"execution\":1968.4,\"parsing\":0,\"request\":{\"dns\":1211.7,\"tls\":308.1,\"timeToFirstByte\":238.1,\"download\":4.2,\"responseSize\":257},\"telemetryServerToken\":\"kZ8/JTuvKyAVXXrxfcYga9e+gYHxS4EVxTA1/vgt2cM=\",\"mode\":\"edge\",\"features\":{\"executePageLoad\":true,\"prefetchViewCount\":1,\"decisioningMethod\":\"server-side\"},\"requestId\":\"3c96e728bda745f3baf72217274742f7\",\"timestamp\":1790940982464}"
+        },
+        {
+          "name": "tgt:tlm:upper",
+          "value": "0"
+        },
+        {
+          "name": "sessionToken",
+          "value": "eyJhbGciOiJLTVMiLCJ0eXAiOiJKV1QifQ.eyJpYXQiOjE3OTA5NDA5NzgsImV4cCI6MTc5MDk0NDU3OH0.AQICAHgRVX6yB5HaOXG/6jWEErD4AnJUVlc3se+5PoiAFFV3IgGk9GpydHyQNLuyABIa9D4LAAAAtDCBsQYJKoZIhvcNAQcGoIGjMIGgAgEAMIGaBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDL5RHssvhfi9sjoY+gIBEIBt5eJubMBsxJMtQ4oBj4+G3NPEfQdbtcWyzED6zSqzANSbdI+6k8el+G6ZXwQC34zj3BrjfxB/1l/lYWgVwKQdQE8CMqR89EITNN9BSEsDLCR+ZbtjuvmTpKNUddJfDaTLEkUdJbgvehuUZ9VbyQ=="
+        },
+        {
+          "name": "awswaf_token_refresh_timestamp",
+          "value": "1790940985044"
+        },
+        {
+          "name": "persist:alert",
+          "value": "{\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "confirmOtpSession",
+          "value": "AQICAHgRVX6yB5HaOXG/6jWEErD4AnJUVlc3se+5PoiAFFV3IgF59FltHF+s19y/WGHim6FyAAAErDCCBKgGCSqGSIb3DQEHBqCCBJkwggSVAgEAMIIEjgYJKoZIhvcNAQcBMB4GCWCGSAFlAwQBLjARBAzXegmXx65ViWxL0f0CARCAggRfONDQOs89wgKQQAGjNnWox25akFYB5o+4mXSQfK17ri/AtU0PpK/ejg0p016tsOYxyDydYxKONmqZGLfpeurpwSh0gYl/nGNfG0Xb5xU3sAtb24cfRhg4bCyonv3tfVTssP40iNVcZnTPBftzZMeZyug0nDCB8TFEGD7gY+66TKmkZSh2jG3HF/DLvoc4G7LujeLzhIKCzX+MXEC0dOS/u3R9sEjNLsUrLMfusSDHcAgwMSQhz/LofSg6v/K++yhPgJXvXEdV6nyGA2OuzTw+PbVX07hWayXjdsItKPzZpVK4xAoLPFp1vqkapLbkbA0iuWt3KeQvdN7KavYNMN2SH0MQPMNFcV+NZO1XbVyIW19h+VdlMX9sKsmiAlpF1oOeS1df6+4bhqx8I/O9hGxYDVQrDjbgrJV0ytHUojdn4zlYPndMNBPOO9yhG5MlgdbDSRjCYkRF7XC7PALANnpD89H9G54UuDQKi9LOmMh8Whvj3jRzolsGwc5gqWsod8VuPIOh/xDGkcWRzDt4+5tTsyEjvvYPqFo5OOr9T1ag1dm3rAmLoPBpLb0kYnETWAdEHVptxRJHV3tQI3KQEIQeyd0cmrBF/9vP23S6yPs4ez1oq5dtn4L9h/sXHwbNU3iXlzRC0nxgsx9I0SKttnELxofXK3oiGrgXgsPwlVJok1siI0cqZjjXrTI5kAfSU8bgmk62Jvolsr15XdntBsO+OsrSnawkQHgADmEm+SsjRdkDWmZub4Y0OjNEhDneEBpoVkZTOBk/4S60Jf2Vm3+1MZNtkWFLQmuSsx+kYmBdfElp+BYG2BO5O/vL7oQXelID0CxiFrbpEl9ul+44dN9Mps01dNnpw8nEEe1U/jJIQpaXdAk+yR/LGMyczoo16XF+PntQIq70cqNQ+iRWi6X3M1SjkYJ1+AN8UUnCx51HsGaHYDf5DWt/rP55igQJ6PLEL7d7FvMfLhq4+42xdd4O0phUx8JhZxeoq6EgFX7pkWBpQ8IFTSBJieWrtO60Y2grQg7KXEDB6S/wQbyQtV/K5iAVMI9eFVK7yWbQO0T/eU19dZ09wnI6RapZ6jwKOsD/AvWUFqkcDwDG2dnqU3STw02B1X/JTj3IyU0zpQrKvo6OU3nW13Fevb7M494zy3fkGqH+XT3kCHG54IXA0xAHeRDVPlW9m+xzYFn3Vd4P2iH9paLlcZgAgQ1Hzvv9ldx3TbirvvIxOt9tCxtn8MyZpWXhcdqsIIwDG53bLwpkD8JtxhsjrsTn7kNR0lJGNQR8T6TQ6V56crjEfQsI/WIvWgwwUIp0PPgIl5BiyRNSiWjgcAg3qpKdDoW2m4wFN7gRShxyjmUCdetS0deg3ImPv48ItyV+ZCGgtsimeXPXQptp04nDMAXJAxYINkjEH+IiS704k8j5ZIUgYSgIjdmY5Q5hBD7ztnIxQudqeO0evGwoD8D3FwrBl3o81bMKHYrnEUw652Ci54OQ8yUTqKvs"
+        },
+        {
+          "name": "awswaf_session_storage",
+          "value": "9a59ec14-cfeb-4256-85d7-bc6e5ff3883d:EQoAndVqKsysTgAA:mpDUPARpjxCCZKKnZSoVEafTTT9wuCgA27Mgb2VGNqzctp+5cMG0lVwwVBnAn1F9T8gshpk1yN1w5YnzuaFVu5cjpXkDMGxEf6NBS6yUm0NE0e646bQ5RQlfMQrVVK7j8+6hzz4z/GUEKLczk6+0i0EnIyxqINxpLgA2WyLUIpumNrTWfYQoFV9dNYybLpROx5CfozZ16Cmkge/Wlxmf9Lq8HKVND1AMhWdQu6IcSqyIZp+2pNNWmZxRcEqGR1RSXoz77c+q+Fo47O8otOIvcaiWI+NlLtT93f9didV5dYVCh1xZD6eLXa2MWrWPaRAiq0F3maWsbe3WnVYNarKY76MQTtA4+3XwCVs3AYQp3WehRgQbliZCNgSpVdE0Rqmnie9tiNXtkPtEsmQZn2TgB+SkNdb/hXg0aYhOffn7OIJcA3Troev0xN9itlw3AsD5U7jy/Uq3u1lomoY7Lr1aWO9/UyKa9ssGqUSacTUAbLX+yhWxAJnnMY8km13PUQ0pJeW3SZGn4F+uV+0NaBx6gHIqXpbqE3RG/cNIbgQlokX6ZSrjHcoWo24sR9jGDHx5NoO2xGPm6G3M9Do8duH2ZVG+eg=="
+        },
+        {
+          "name": "cwr_c",
+          "value": "{\"accessKeyId\":\"ASIA3RJQS5OFPKFC3WJP\",\"secretAccessKey\":\"ESUiQvlSM3pAmDZIg/ex0VqTpgxRcvl0ep2sDd5k\",\"sessionToken\":\"IQoJb3JpZ2luX2VjEMz//////////wEaCXVzLWVhc3QtMSJIMEYCIQCqAisDiMjUCcsSaGvKWySnfIuE276LfHo/olbf/fnKcgIhAMyCsJt1zCbURrOqrVFbZzbA2RIvg7F2KM3nGxIW+6weKo8DCJT//////////wEQAhoMNzkzMDYwMjQwMjY2IgzG8/e8si7Q4783t6oq4wLBMMkzgtbYCqBglv75OfLk8mqVet2zK6X4kTE63913QN+zgEp1tcVTk1RY3HbhxEId4QL/Neb/NZR+rkGZRPY9DzjCgbzSvZvM5T25K3i//gpSfro3Jn26jQhDkigNcIZ8q0e1vPc9a9QgfLQp+pelJhGSAwqpkaTuaM03fO2NngY3TehvplUKHmIYSIfLCdqNcy7mc/ldQs94HSUuIRhZz6cVl7+HDIBsSdvHVKIGyolXisGCf+X4oZ7phvgFCef2HgF9MecGi2vQXmUvFWegfbYDlC4WHIfjOJiBKx+w0KR/jSI5bRFAsXy7sn42HGe2BoVgv0Mo2GngkHPeHN0/eM/sKW3fR7SJrPApxXfVpi9tG2e9att00W6oNJwIn1ez39MOGFz9ZDly5lD8t+xvrqizpP2FqqAentopc3hNKdCoRROhiOHCChoNuykMz+ZzK3tg7h33vUyRI2WfQdHDGHmWMLau/tUGOoQCMK34cTVmFHWrIIiEaKIXOW5vyG1pAMTNxj+V96Jko+VHB/DsvPZDxlnhOp506bKo5UYP0Cv8bE02V+VLDuWlQ4B6lUqksb/iOal3lQxx4mOM1gDH18SPj6TVdjWav+4OxlSWG0kY6dOEolPcS7CyUdRXHRg3wYUHyVwj1IX9ky2ZFFqPOpDvyGyWCxtlTzKCdXRzuwQi4ubTpO5ZMwCaaaOMISu4j763hpEjk0OxhRx9Xk5Ssj35Ax+Etx/ZDT5rzprdaPICw+YpBqi51H8hnjXJaPBACkJUndOHvIH4JR9oFt+jyjqwAtDi9JfY1J/+nPGukJ9IjRnYTj72WbZE7HFAbKA=\",\"expiration\":\"2026-10-02T12:36:22.000Z\"}"
+        },
+        {
+          "name": "cookieConsent",
+          "value": "true"
+        },
+        {
+          "name": "userId",
+          "value": "Shivamshah409@gmail.com"
+        },
+        {
+          "name": "sign-in-original",
+          "value": "sign-in"
+        },
+        {
+          "name": "persist:root",
+          "value": "{\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Person 1",
+    "email": "their-amazon-login@gmail.com",
+    "password": "their-amazon-password",
+    "imapUser": "their-gmail@gmail.com",
+    "imapPass": "16-letter gmail app password",
+    "alertTo": "where-to-send-alerts@gmail.com",
+    "locations": "dundee, exeter, EX5",
+    "jobs": "",
+    "types": "part-time",
+    "shifts": "",
+    "minHours": 0,
+    "maxHours": 40,
+    "maxApplies": 1,
+    "enabled": true
+  }
+]

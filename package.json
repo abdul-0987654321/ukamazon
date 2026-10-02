@@ -1,0 +1,15 @@
+{
+  "name": "shift-bot-server",
+  "version": "1.0.0",
+  "description": "24/7 shift bot: public Telegram channel -> Amazon UK hourly jobs application, for several accounts",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "imapflow": "^1.0.164",
+    "mailparser": "^3.7.1",
+    "nodemailer": "^6.9.14",
+    "playwright": "1.56.0"
+  }
+}

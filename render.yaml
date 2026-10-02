@@ -1,0 +1,39 @@
+# Render Blueprint for the shift bot, WITHOUT Docker (plain Node runtime).
+# Put this file in the root of the GitHub repo, then in Render: New -> Blueprint -> pick the repo.
+services:
+  - type: web
+    name: shift-bot
+    runtime: node
+    region: frankfurt          # closest Render region to the UK
+    plan: starter              # the free plan sleeps when idle; use standard if the browser runs out of memory
+    buildCommand: npm install && npx playwright install chromium
+    startCommand: node server.js
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      # keep the downloaded browser inside the project, so it is still there when the bot starts
+      - key: PLAYWRIGHT_BROWSERS_PATH
+        value: "0"
+      - key: HEADLESS
+        value: "true"
+      - key: DRY_RUN
+        value: "true"          # test mode. Change to false only when the client has agreed.
+      - key: TG_CHANNEL
+        value: amazonwarehousejobs_uk
+      - key: POLL_SECONDS
+        value: "5"
+      - key: LOOKBACK_MINUTES
+        value: "0"
+      # The values below are secrets. Render asks you to type them in; they are never stored in GitHub.
+      - key: ACCOUNTS_JSON      # the contents of accounts.json on ONE line
+        sync: false
+      - key: STATUS_TOKEN       # any secret word; open the status page with ?token=THAT_WORD
+        sync: false
+      - key: PROXY_SERVER       # UK residential proxy, e.g. http://host:port (Amazon blocks Render without it)
+        sync: false
+      - key: PROXY_USERNAME
+        sync: false
+      - key: PROXY_PASSWORD
+        sync: false
